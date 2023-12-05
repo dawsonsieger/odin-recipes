@@ -39,3 +39,7 @@ ul {
 a:visited {
     color: #f2e8cf;
 }
+
+a:hover {
+    color: #bc4749;
+}

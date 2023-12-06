@@ -11,3 +11,13 @@ body {
     text-align: center;
     font-style: italic;
 }
+
+.centerImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recipeImg {
+    border: 3px solid #f2e8cf;
+}

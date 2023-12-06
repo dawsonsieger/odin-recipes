@@ -16,8 +16,25 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 20px;
 }
 
 .recipeImg {
-    border: 3px solid #f2e8cf;
+    border: 3px solid #386641;
+}
+
+.recipeContent {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #f2e8cf;
+    color: #6a994e;
+    border: solid #386641 3px;
+    padding: 10px;
+}
+
+.recipeContent ul ol {
+    display: inline-block;
+    text-align: left;
+    color: #f2e8cf;
+    font-size: 20px;
 }

@@ -30,6 +30,7 @@ body {
     color: #6a994e;
     border: solid #386641 3px;
     padding: 10px;
+    font-weight: 600;
 }
 
 .recipeContent ul ol {

@@ -4,4 +4,10 @@
 
 body {
     background-color: #6a994e;
+    color: #f2e8cf;
+}
+
+#titleHeading {
+    text-align: center;
+    font-style: italic;
 }
